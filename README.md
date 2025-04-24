@@ -1,57 +1,66 @@
-<h1 align="center">👋 Olá! Eu sou o Vini</h1>
+<h1 align="center">🚀 Olá! Eu sou o Vini 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação na PUCPR <br>
-  🚀 Sempre aprendendo algo novo — atualmente estudando Rust e TypeScript <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BE7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Entusiasta+de+IA+e+Dados;Amante+de+Tecnologia" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação na PUCPR  
+- 💡 Curioso por tudo que envolve dados, IA e automação  
+- 🛠️ Stack atual: Python | TypeScript | Rust | React | Node.js  
+- 🧠 Em constante aprendizado
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nodejs,mysql,html,css,js,bash" />
+</p>
+
+---
+
+### 🔥 Projetos em destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| [AutoProductManager](https://github.com/Vini-y/AutoProductManager) | 🛒 Automação de cadastro de produtos via CSV |
+| [ChurnAnalyzer](https://github.com/Vini-y/ChurnAnalyzer) | 📉 Detecção de cancelamento de clientes usando IA |
+| [CreditScoreAI](https://github.com/Vini-y/CreditScoreAI) | 💳 Predição de score de crédito com Machine Learning |
+| [Cache_py](https://github.com/Vini-y/Cache_py) | 🧪 Implementação prática de cache com Python |
+
+---
+
+### 🏆 Trophies e Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vini-y&theme=onedark&row=1" />
 </p>
 
 <p align="center">
-  <a href="mailto:vini.yama13@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/Vini-y">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vini-y&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-y&layout=compact&theme=radical" height="150px"/>
 </p>
 
 ---
 
-### 🧠 Tecnologias & Interesses
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
----
-
-### 🔧 Projetos em Destaque
-
-- 🛒 [**AutoProductManager**](https://github.com/Vini-y/AutoProductManager)  
-  Ferramenta para automatizar o cadastro de produtos via planilhas CSV.
-
-- 📉 [**ChurnAnalyzer**](https://github.com/Vini-y/ChurnAnalyzer)  
-  Projeto de ciência de dados para análise de churn (cancelamento de clientes).
-
-- 💳 [**CreditScoreAI**](https://github.com/Vini-y/CreditScoreAI)  
-  Sistema de predição de score de crédito usando aprendizado de máquina.
-
-- 🧪 [**Cache_py**](https://github.com/Vini-y/Cache_py)  
-  Implementação prática e didática de cache em Python.
-
----
-
-### 📈 Estatísticas do GitHub
+### 📊 Commits e contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vini-y&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-y&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://streak-stats.demolab.com/?user=Vini-y&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios ✨</p>
+### 👀 Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vini-y&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+---
+
+<p align="center">✨ Obrigado por visitar! Explore meus repositórios e vamos construir algo juntos! 🚀</p>
