@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Olá! Eu sou o Vini 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BE7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Entusiasta+de+IA+e+Dados;Amante+de+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BE7FF&center=true&vCenter=true&width=435&lines=Construindo+meu+github+..." alt="Typing SVG" />
 </p>
 
 ---
