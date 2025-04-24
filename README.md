@@ -10,7 +10,6 @@
 
 - 🎓 Estudante de Ciência da Computação na PUCPR  
 - 💡 Curioso por tudo que envolve dados, IA e automação  
-- 🛠️ Stack atual: Python | Java | C | Rust | React | Node.js  
 - 🧠 Em constante aprendizado
 
 ---
