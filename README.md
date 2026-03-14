@@ -209,16 +209,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vini-y&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Atividade de Contribuições
 
 <div align="center">
